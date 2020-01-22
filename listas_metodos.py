@@ -24,3 +24,5 @@ print(lista.count(3))
 print(lista)
 lista.insert(2,"Nuevo")
 print(lista)
+
+# Método
